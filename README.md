@@ -34,5 +34,9 @@ By adding ammo to the if statement, you remove it but they can still select the 
 to the script it removes the ability to select the gun.
 
 Use these links to get ammo and weapons without debug menu.
+https://community.bistudio.com/wiki/Arma_3_CfgVehicles_WEST
+https://community.bistudio.com/wiki/Arma_3_CfgVehicles_EAST
+https://community.bistudio.com/wiki/Arma_3_CfgVehicles_GUER
+https://community.bistudio.com/wiki/Arma_3_CfgVehicles_CIV
 
 It won't fuck shit up by keeping vehicles from another mod in the script. It just skips past it. 
