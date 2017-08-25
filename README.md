@@ -11,7 +11,7 @@ Thanks to MGTDB for his help on a better workaround.
 
 Thanks to Kuplion too :)
 
-The script allows you to remove certain ammo whenever you enter a vehicle on Exile.
+The script allows you to remove certain ammo whenever you purchase a vehicle on Exile.
 It already contains the neccessary code to be able to edit it easily.
 
 If you wish to add more vehicles to the script, follow the format and add the ammo and weapons for the vehicles into the if statements.
