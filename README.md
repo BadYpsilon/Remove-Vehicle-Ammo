@@ -1,9 +1,15 @@
 # Remove-Vehicle-Ammo
-This is an override for ExileServer_object_vehicle_event_onGetIn.sqf
+This is an override for ExileServer_object_vehicle_carefulCreateVehicle.sqf
 
-Thanks to those who helped me with the event handler layout. I believe it was eraser :P BAD MEMORY!
+I couldn't find one on the forums anywhere like this, so i share this script for everyone else :) 
+
+Thanks to Eraser for the Origional Event Handling.
 
 Thanks to [GADD]WombDilator for the help with a few of the jets!
+
+Thanks to MGTDB for his help on a better workaround.
+
+Thanks to Kuplion too :)
 
 The script allows you to remove certain ammo whenever you enter a vehicle on Exile.
 It already contains the neccessary code to be able to edit it easily.
@@ -27,7 +33,7 @@ All you have to do is override ExileServer_object_vehicle_event_onGetIn
 
 class CfgExileCustomCode 
 {
-  ExileServer_object_vehicle_event_onGetIn = "DesiredFilepath\ExileServer_object_vehicle_event_onGetIn.sqf";
+  ExileServer_object_vehicle_carefulCreateVehicle = "DesiredFilepath\ExileServer_object_vehicle_carefulCreateVehicle.sqf";
 };
 
 By adding ammo to the if statement, you remove it but they can still select the gun and switch to the guns, by adding guns
