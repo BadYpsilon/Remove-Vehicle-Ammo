@@ -1,6 +1,8 @@
 # Remove-Vehicle-Ammo
 This is an override for ExileServer_object_vehicle_carefulCreateVehicle.sqf
 
+Join my Discord at http://discord.gamingatdeathsdoor.com if you have any problems.
+
 I couldn't find one on the forums anywhere like this, so i share this script for everyone else :) 
 
 Thanks to Eraser for the Origional Event Handling.
